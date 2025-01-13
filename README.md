@@ -70,7 +70,7 @@ We may update these terms periodically. Users will be notified of significant ch
  11. Contact Information
 For questions, concerns, or support, contact us at:
  Phone: 0201462313
- Email: support@fornixlabs.com
+ Email: admin@fornixlabs.com
  Website: http://www.fornixlabs.com
 
 
