@@ -2,14 +2,14 @@
 
  Effective Date: 22nd October, 2024
 
-Welcome to Fornix AI Labs! By accessing or using our platform, you agree to comply with and be bound by the following terms and conditions. Please read them carefully.
+Welcome to Fornix Labs! By accessing or using our platform, you agree to comply with and be bound by the following terms and conditions. Please read them carefully.
 
 
  1. Acceptance of Terms
 By registering or using the Fornix AI Labs platform, you confirm that you have read, understood, and agreed to these Terms of Service (TOS). If you disagree with these terms, please refrain from using our services.
 
  2. Purpose of the Platform
-Fornix AI Labs is designed to:
+Fornix Labs is designed to:
  Facilitate clear communication between patients and healthcare providers through AI-powered patient voice recording transcription.
  Provide patients access to a medical search feature for relevant healthcare resources.
 
@@ -48,10 +48,10 @@ We employ robust measures to protect your data:
  We adhere to strict privacy regulations to ensure data integrity and confidentiality.
 
  7. Platform Usage
-Fornix AI Labs is not a substitute for professional medical advice. While we strive for accuracy, all information provided through the platform is for informational purposes only. Always consult a qualified healthcare professional for diagnosis and treatment.
+Fornix  Labs is not a substitute for professional medical advice. While we strive for accuracy, all information provided through the platform is for informational purposes only. Always consult a qualified healthcare professional for diagnosis and treatment.
 
  8. Limitation of Liability
-Fornix AI Labs is not liable for:
+Fornix  Labs is not liable for:
  Any misuse or misinterpretation of the information provided.
  Delays, interruptions, or failures in the platform due to external factors.
  Unauthorized access resulting from user negligence.
@@ -74,5 +74,5 @@ For questions, concerns, or support, contact us at:
  Website: http://www.fornixlabs.com
 
 
-By using Fornix AI Labs, you acknowledge and agree to these terms. Thank you for choosing our platform to improve healthcare communication and outcomes.
+By using Fornix Labs, you acknowledge and agree to these terms. Thank you for choosing our platform to improve healthcare communication and outcomes.
 
